@@ -212,10 +212,7 @@ yield_curve_pca.ipynb
 02_stylized_facts.ipynb
 02_data_in_finance.ipynb
 06_optimization.ipynb
-02_homework.ipynb
 03_linear_regression.ipynb
-02_mle.ipynb
-02_data_finance.ipynb
 07_gaussian_pca.ipynb
 09_gaussian_mixture_models.ipynb
 04_nonlinear_regression.ipynb
@@ -225,3 +222,4 @@ yield_curve_pca.ipynb
 11_neural_networks.ipynb
 12_deep_learning.ipynb
 07_yield_curve_pca.ipynb
+02_mle_solution.ipynb
