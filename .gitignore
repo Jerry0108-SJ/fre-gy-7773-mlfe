@@ -210,7 +210,6 @@ __marimo__/
 
 04_california_housing_example.ipynb
 04_ridge_lasso_solution.ipynb
-05_classification.ipynb
 06_optimization.ipynb
 07_gaussian_pca.ipynb
 07_yield_curve_pca.ipynb
@@ -223,4 +222,7 @@ misc/
 05_classification_mnist.ipynb
 05_end_to_end_machine_learning_project.ipynb
 05_uci_credit_card.ipynb
-04_homework_copy.ipynb
+05_homework.ipynb
+05_classification_solution.ipynb
+06_optimization_1.ipynb
+06_optimization_2.ipynb
